@@ -1,0 +1,1 @@
+include ':app', ':CommonRes', ':CommonSDK', ':CommonService', ':ThirdLibrarys:tvrecyclerview', ':module_auto_start'
